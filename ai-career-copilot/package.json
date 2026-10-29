@@ -1,0 +1,9 @@
+{
+  "name": "careerpilot-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered resume analyzer using Gemini and Vercel serverless functions",
+  "engines": {
+    "node": ">=20"
+  }
+}
